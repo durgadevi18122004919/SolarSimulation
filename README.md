@@ -12,5 +12,5 @@ A visually engaging simulation of the solar system using **HTML** and **CSS**.
   - UI Design  
   - Basic Understanding of Planetary Motion
 
-## Solar System Screensho
+## Solar System Screenshot
 ![Solar System Screenshot](/preview.png)
